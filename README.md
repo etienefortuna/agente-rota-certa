@@ -30,7 +30,7 @@
 ## 🚀 Teste o aplicativo
 
 Acesse o Agente Rota Certa diretamente pelo seu navegador:  
-👉 [https://baorrbww.manus.space/](https://baorrbww.manus.space/)
+👉 [https://unapstby.manus.space/](https://unapstby.manus.space/)
 
 ---
 
