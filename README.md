@@ -1,6 +1,6 @@
 # 🚗 Agente Rota Certa
 
-**Agente Rota Certa** é um bot inteligente para motoristas de aplicativo que calcula a rota mais curta em quilômetros entre a localização atual e o destino, ajudando a economizar combustível e tempo. A solução ideal para eliminar divergências entre apps populares como Uber e Waze.
+**Agente Rota Certa** é um bot inteligente para motoristas de aplicativo que calcula a rota mais curta em quilômetros entre a localização atual e o destino, ajudando a economizar combustível e tempo. A solução ideal para eliminar divergências entre apps populares como Waze.
 
 ---
 
@@ -25,6 +25,12 @@
 * Apresenta distância e tempo estimado da viagem
 * Gera link clicável para abrir o trajeto no Google Maps
 * Emite alerta caso a distância ultrapasse 30 km, auxiliando no controle de viagens longas
+
+---
+## 🚀 Teste o aplicativo
+
+Acesse o Agente Rota Certa diretamente pelo seu navegador:  
+👉 [https://baorrbww.manus.space/](https://baorrbww.manus.space/)
 
 ---
 
