@@ -74,3 +74,9 @@ python bot.py
 * OpenRouteService API
 * Google Maps
 
+---
+
+## 🎓 Sobre o projeto
+
+Este projeto foi desenvolvido durante a **Imersão IA promovida pela Alura em parceria com o Google Gemini**.  
+O objetivo da imersão foi estimular a criação de agentes com inteligência artificial generativa, unindo utilidade, criatividade e inovação em soluções reais.
