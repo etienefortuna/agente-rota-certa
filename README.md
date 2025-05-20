@@ -27,6 +27,15 @@
 * Emite alerta caso a distância ultrapasse 30 km, auxiliando no controle de viagens longas
 
 ---
+
+## 📽️ Demonstração em vídeo
+
+Quer ver como funciona na prática?
+
+👉 [Clique aqui para assistir à demonstração do Agente Rota Certa](https://youtube.com/shorts/vFBoEF6l9cg)
+
+---
+
 ## 🚀 Teste o aplicativo
 
 Acesse o Agente Rota Certa diretamente pelo seu navegador:  
